@@ -1,0 +1,414 @@
+@media (max-width: 2652px) and (min-width: 2560px) {
+  .body {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Navbar */
+
+  .navbar-img {
+    width: 30rem;
+    height: 10rem;
+  }
+  .btn-flate {
+    font-size: 2rem;
+    width: 6%;
+    height: 233%;
+  }
+  .signIn {
+    font-size: 2rem !important;
+  }
+
+  /* Section-1 */
+
+  .section1-content {
+    height: 144vh;
+  }
+  .heading1 {
+    top: 20rem;
+    font-size: 5rem;
+  }
+  .h1-sub {
+    top: 21rem;
+    font-size: 3rem;
+  }
+  .readyTo-watch {
+    top: 22rem;
+    font-size: 2rem;
+  }
+  .email-form {
+    position: relative;
+    top: 24rem;
+    width: 40%;
+    left: 50rem;
+    padding: 1rem;
+  }
+  #email-placeholder::-webkit-input-placeholder {
+    font-size: 2rem;
+    color: #fff;
+  }
+  .btn-getStarted {
+    font-size: 2rem !important;
+    position: relative;
+    bottom: 8px;
+  }
+  .btn-flate {
+    font-size: 2rem;
+  }
+
+  /* Section 2 */
+
+  .section-2 {
+    bottom: 3rem;
+  }
+  .sect2-heading {
+    color: #fff;
+    font-size: 6rem;
+  }
+  .section2-content {
+    font-size: 2rem;
+  }
+  .video-section {
+    bottom: 3rem;
+    right: 20.5rem;
+    position: absolute;
+  }
+
+  /* Section 3 */
+  .section-3 {
+    height: 52vh;
+    bottom: 36px;
+  }
+  .section3-heading {
+    color: #fff;
+    font-size: 6rem;
+    padding-left: 48rem;
+  }
+  .section3-text {
+    top: 7rem;
+    right: 4rem;
+    /* text-align: right; */
+    padding: 0rem 0rem 0rem 58rem;
+    /* padding-right: 1rem; */
+    position: absolute;
+  }
+  .section3Pic {
+    position: relative;
+    top: 18rem;
+    width: 35% !important;
+  }
+  .section3-content {
+    font-size: 2rem;
+  }
+  .mobilePic {
+    height: 22vh;
+    position: relative;
+    bottom: 24rem;
+    left: 0rem;
+  }
+
+  /* Section 4 */
+
+  .section-4 {
+    height: 68vh;
+    bottom: 1.5rem;
+  }
+  .section4-heading {
+    text-align: center;
+    color: #fff;
+    position: relative;
+    font-size: 6rem;
+    left: 46rem;
+  }
+  .section4-content {
+    font-size: 2.5rem !important;
+    position: relative;
+    left: 52rem;
+    text-align: center;
+  }
+
+  /* Section 5 */
+
+  .section-5 {
+    height: 86vh;
+    bottom: 11px;
+  }
+  .section5-heading {
+    top: 15rem;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    padding-left: 24rem;
+    font-size: 6rem;
+  }
+  .section5-content {
+    top: 24rem;
+    font-size: 2rem !important;
+    padding-left: 62rem;
+  }
+  .kidsPic {
+    width: 44% !important;
+  }
+
+  /* Section 6 */
+
+  .section-6 {
+    height: 122vh;
+  }
+  .section6-heading {
+    font-size: 6rem;
+  }
+  .accordion {
+    background-color: #000;
+    border-radius: 0%;
+    width: 72%;
+    text-align: center;
+    top: 14rem;
+    left: 22rem;
+    position: absolute;
+  }
+  .accordion-heading {
+    font-size: 3.5rem;
+  }
+  .accordion-body {
+    font-size: 2rem;
+  }
+  .section5-content {
+    top: 24rem;
+    font-size: 2rem !important;
+    padding-left: 62rem;
+  }
+  .kidsPic {
+    width: 44% !important;
+  }
+  .mail2 {
+    top: 28rem;
+  }
+  .mail2-text {
+    font-size: 2rem !important;
+  }
+
+  /* Footer */
+
+  .footer {
+    height: 50vh;
+  }
+
+  .footer-text1 {
+    font-size: 2rem;
+  }
+  .row2 {
+    position: absolute;
+    bottom: 11.9rem;
+    left: 30rem;
+  }
+  .row3 {
+    position: absolute;
+    bottom: 12rem;
+    left: 54rem;
+  }
+  .row4 {
+    position: absolute;
+    bottom: 16rem;
+    left: 84rem;
+  }
+}
+
+@media (max-width: 1440px) {
+  .kidsPic {
+    width: 48% !important;
+  }
+}
+
+@media screen and (max-width: 1326px) {
+  .section-1 {
+    height: 130vh;
+  }
+  .section-4 {
+    height: 88vh;
+  }
+  .section-5 {
+    height: 95vh;
+  }
+  .section-6 {
+    height: 164vh;
+  }
+}
+@media screen and (max-width: 768px) {
+  .section-1 {
+    width: 102% !important;
+    height: 88vh !important;
+  }
+  .video1 {
+    position: absolute;
+    bottom: 19.8rem;
+    right: 4.5rem;
+  }
+
+  .video-section {
+    position: absolute;
+    top: -2rem;
+    left: -2.5rem !important;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  /* Section 1 */
+  .section-1 {
+    height: 49vh !important;
+  }
+}
+
+
+@media screen and (width: 1024) {
+  .body {
+    height: 100%;
+    width: 100%;
+  }
+
+  /* Section-1 */
+
+  .section-1 {
+    width: 102%;
+    height: 118vh !important;
+  }
+  .img1 {
+    width: 102% !important;
+  }
+
+  /* Section-2 */
+
+  .section-2 {
+    width: 102%;
+    height: 106vh;
+  }
+  .sect2-heading {
+    position: relative;
+    right: 5rem;
+    z-index: 99;
+  }
+  .section2-content {
+    position: relative;
+    padding-right: 18rem;
+    right: 5rem;
+  }
+  .tv-img {
+    left: 28.5rem;
+    top: 6rem;
+  }
+  .video-section {
+    position: absolute;
+    top: -2rem;
+    left: -2.5rem;
+  }
+  .video1 {
+    position: relative;
+    bottom: 15.3rem;
+    left: 32.6rem;
+  }
+  /* Section 3 */
+
+  .section-3 {
+    width: 102%;
+    height: 112vh;
+  }
+  .section3-text {
+    position: absolute !important;
+    z-index: 99;
+    left: 27rem !important;
+    bottom: 13rem;
+  }
+  .section3Pic {
+    position: relative;
+    right: 3rem;
+  }
+
+  /* Section 4 */
+
+  .section-4 {
+    width: 102%;
+    height: 64vh;
+  }
+  .section4-heading {
+    padding: 5rem 0rem 0rem 16rem;
+    width: 72% !important;
+  }
+  .section4-content {
+    width: 72% !important;
+    padding: 0rem 5rem 0rem 16rem !important;
+  }
+  .mobile-text {
+    width: 70% !important;
+  }
+  .mobNetflix2 {
+    width: 11% !important;
+  }
+
+  /* Section 5 */
+
+  .section-5 {
+    width: 102%;
+    height: 94vh;
+  }
+  .section5-heading {
+    top: 5rem !important;
+    padding-left: 2rem;
+    left: 25rem;
+    width: 60%;
+  }
+  .section5-content {
+    top: 14rem;
+    left: -11rem;
+  }
+  .kidsPic {
+    top: 3rem;
+    width: 50% !important;
+    position: relative;
+  }
+
+  /* Section 6 */
+
+  .section-6 {
+    width: 102% !important;
+    height: 162vh;
+  }
+
+  /* footer */
+
+  .footer {
+    width: 100%;
+    height: 54vh;
+    padding-top: 2rem;
+  }
+  .row2 {
+    bottom: 3.5rem;
+  }
+  .row3 {
+    bottom: 3.5rem;
+  }
+  .row4 {
+    top: 4rem;
+    /* width: 11%; */
+    left: 50rem;
+  }
+}
+
+@media (max-width: 1980px) {
+  .section3-text {
+    position: absolute;
+    left: 37rem;
+  }
+  .section4-content {
+    padding: 0rem 5rem 0rem 12rem;
+  }
+  .section5-heading {
+    top: 8rem;
+  }
+  .footer {
+    top: 231rem;
+  }
+  /* .section-6{
+      height: 200vh;
+    } */
+}
+
