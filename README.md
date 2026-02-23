@@ -19,10 +19,6 @@
 
 
 
-## 🚀 React Development Setup
-
-Replace the **Quick Start** section with this React-specific version:
-
 ## 🚀 Quick Start (React App)
 
 ### **Prerequisites**
@@ -114,8 +110,6 @@ npm run deploy
 **Your Netflix clone will be live in 60 seconds! 🚀**
 
 ***
-
-**Add this section right after the Live Demo** - perfect React setup guide for your portfolio!
 
 ## 🛠️ Tech Stack
 
